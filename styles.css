@@ -1,0 +1,43 @@
+body {
+  background: url("http://wallko.com/wp-content/uploads/2014/11/Delicious-Pizza-Desktop.jpg");
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+body img {
+  width:200px;
+  height:200px;
+  border-radius:100%;
+}
+h1 {
+  text-align: center;
+  margin-top: 10%;
+}
+h2 {
+  text-align: center;
+}
+form {
+  text-align: center;
+  border-top: 2px solid black;
+  border-right: 2px solid black;
+  border-left: 2px solid black;
+  border-bottom: 0px solid black;
+  margin-top: 10%;
+  margin-left: 35%;
+  width: 29%;
+  background: white;
+}
+#board {
+  border: 2px solid black;
+  border-top: 0px solid black;
+  border-right: 2px solid black;
+  border-left: 2px solid black;
+  border-bottom: 2px solid black;
+  margin-left: 35%;
+  width: 29%;
+  background: white;
+}
+#board img {
+  margin-left: 22%;
+  margin-top: 5%;
+  margin-bottom: 5%;
+}
